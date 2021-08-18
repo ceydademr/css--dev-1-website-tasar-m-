@@ -1,0 +1,48 @@
+
+body {
+ /* tüm sayfaların arkaplanı aynı renk */
+    text-align: center; 
+    background-color: lightgrey;
+}
+/*ürünleri tanıtan yazılar her zaman italik*/
+p {
+    font-size: 30px;
+    font-style: italic;
+}
+
+img {
+    width: 400px;
+}
+
+h1 {
+    color: darkcyan;
+    font-family: serif;
+    font-size: 60px;
+}
+
+.menü {
+    color: black; 
+    font-size: 25px; 
+}
+
+#newcollection {
+    /*fotoğrafla uyumlu arkaplan*/
+    background-color: rgb(230, 221, 140); 
+    color: green;
+}
+
+#noround {
+    /*fotoğrafla uyumlu arkaplan*/
+    background-color: lavender;
+}
+
+#dinnerset {
+    /*fotoğrafla uyumlu arkaplan*/
+    background-color: grey;
+    color: white;
+}
+.sosyal-medya-linkleri {
+    color: lightslategray;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
