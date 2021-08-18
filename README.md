@@ -1,2 +1,5 @@
-# css--dev-1-website-tasar-m-
+# Front-End Web Development Patikası
+
+
+## css-odev1 | website tasarlama
 css kullanarak website oluşturma.
